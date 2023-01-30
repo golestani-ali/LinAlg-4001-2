@@ -1,0 +1,84 @@
+\documentclass{beamer}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{adjustbox}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amstext}
+\usepackage{amsfonts}
+\usepackage{pifont}
+\usepackage{mathtools}
+\usepackage{cite}
+
+\newcommand{\Lagr}{\mathcal{L}}
+\newcommand{\Algebra}{\mathcal{A}}
+\newcommand{\power}{\mathcal{P}}
+
+\setbeamertemplate{headline}{%
+    \leavevmode%
+    \hbox{%
+        \begin{beamercolorbox}[wd=\paperwidth,ht=3ex,dp=1.125ex]{palette tertiary}%
+        \insertsectionnavigationhorizontal{\paperwidth}{}{}
+        \end{beamercolorbox}%
+    }
+}
+
+\usetikzlibrary{mindmap}
+\usetheme{Madrid}
+\usecolortheme{beaver}
+
+% title page
+\title[Linear Algebra 101] %optional
+{Introduction into linear algebra}
+
+\subtitle{Mathematical Preliminaries}
+
+% \author*[1,2]{\fnm{Ali} \sur{Golestani}}\email{golestani\_ali@mathdep.iust.ac.ir}
+% \author[1,2]{\fname{Ali}} % (optional, for multiple authors)
+\author[Golestani, Ali]{Ali Golestani}
+% \institute[IUST]{\inst{1} Iran University of Science and Technology \and %
+%                       \inst{2} Iran University of Science and Technology \and
+%                       \inst{3} Iran University of Science and Technology}
+% % {Ali Golestani\inst{}}
+
+\institute[IUST] % (optional)
+{
+  \inst{}%
+  Department of Mathematics\\
+  Iran University of Science and Technology
+}
+
+\date[IUST 2023] % (optional)
+{Iran University of Science and Technology, Feb 2023}
+
+\logo{\includegraphics[height=1.5cm]{"University Logo.png"}}
+
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+    \frametitle{Mathematical Preliminaries}
+    \framesubtitle{Set Theoretic Concepts}
+    
+\begin{block}{Definition 1.1}
+    Let $X$ and $Y$ be two non-empty sets and $A$ and $B$ subsets of these sets respectively; If there exists a relation  $R: A \rightarrow B$ s.t.
+    for every $a \in A$ there exists only one $b \in B$ s.t. $R(a) = b$, then $R$ is a function from $X$ to $Y$.
+\end{block}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{<title>}
+
+    \begin{block}{Definition 1.2}
+        Let $X$ and $Y$ be two non-empty sets and $f: X \rightarrow Y$ be a function; If 
+        \begin{itemize}
+            \item For every $y \in Y$ there exists $x \in X$ s.t. $f(x) = y$
+        \end{itemize}
+    \end{block}
+
+\end{frame}
+
+\end{document}
