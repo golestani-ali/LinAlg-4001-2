@@ -1,8 +1,8 @@
-PWD /Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/Course Logistics
+PWD /Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/LinAlg-4001-2/Course Logistics
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/Course Logistics/Course_Logistics.tex
+INPUT /Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/LinAlg-4001-2/Course Logistics/Course_Logistics.tex
 OUTPUT Course_Logistics.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1560,6 +1560,10 @@ INPUT ./University Logo.png
 INPUT ./University Logo.png
 INPUT University Logo.png
 INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
 OUTPUT Course_Logistics.nav
 OUTPUT Course_Logistics.toc
 OUTPUT Course_Logistics.snm
@@ -1571,3 +1575,4 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.p
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb

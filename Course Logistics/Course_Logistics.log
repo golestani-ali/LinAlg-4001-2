@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.11)  26 JAN 2023 19:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.11)  31 JAN 2023 19:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/Course Logistics/Course_Logistics.tex"
-(/Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/Course Logistics/Course_Logistics.tex
+**"/Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/LinAlg-4001-2/Course Logistics/Course_Logistics.tex"
+(/Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/LinAlg-4001-2/Course Logistics/Course_Logistics.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2022/02/08 v3.66 A class for typesetting presentations
@@ -859,44 +859,51 @@ Package pdftex.def Info: University Logo.png  used on input line 72.
 ]
 File: University Logo.png Graphic file (type png)
 <use University Logo.png>
-Package pdftex.def Info: University Logo.png  used on input line 82.
+Package pdftex.def Info: University Logo.png  used on input line 83.
 (pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
  [3
 
 ]
 File: University Logo.png Graphic file (type png)
 <use University Logo.png>
-Package pdftex.def Info: University Logo.png  used on input line 101.
+Package pdftex.def Info: University Logo.png  used on input line 103.
 (pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
  [4
 
 ]
 File: University Logo.png Graphic file (type png)
 <use University Logo.png>
-Package pdftex.def Info: University Logo.png  used on input line 105.
+Package pdftex.def Info: University Logo.png  used on input line 121.
 (pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
  [5
 
 ]
 File: University Logo.png Graphic file (type png)
 <use University Logo.png>
-Package pdftex.def Info: University Logo.png  used on input line 112.
+Package pdftex.def Info: University Logo.png  used on input line 133.
 (pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
  [6
 
 ]
 File: University Logo.png Graphic file (type png)
 <use University Logo.png>
-Package pdftex.def Info: University Logo.png  used on input line 128.
+Package pdftex.def Info: University Logo.png  used on input line 149.
 (pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
  [7
 
 ]
 File: University Logo.png Graphic file (type png)
 <use University Logo.png>
-Package pdftex.def Info: University Logo.png  used on input line 138.
+Package pdftex.def Info: University Logo.png  used on input line 165.
 (pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
  [8
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 175.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [9
 
 ]
 \tf@nav=\write6
@@ -913,21 +920,21 @@ Package rerunfilecheck Info: File `Course_Logistics.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 27298 strings out of 478268
- 556947 string characters out of 5846346
- 797003 words of memory out of 5000000
- 44911 multiletter control sequences out of 15000+600000
+ 27324 strings out of 478268
+ 557834 string characters out of 5846346
+ 796981 words of memory out of 5000000
+ 44935 multiletter control sequences out of 15000+600000
  478946 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,533b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,122p,547b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Group\040Link} has been referenced but does not exist, replaced by a fixed one
 
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on Course_Logistics.pdf (8 pages, 109091 bytes).
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Course_Logistics.pdf (9 pages, 125551 bytes).
 PDF statistics:
- 362 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
- 18 named destinations out of 1000 (max. 500000)
- 324 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 423 PDF objects out of 1000 (max. 8388607)
+ 328 compressed objects within 4 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 402 words of extra memory for PDF output out of 10000 (max. 10000000)
 
