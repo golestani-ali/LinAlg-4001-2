@@ -60,25 +60,135 @@
 
 \begin{frame}
     \frametitle{Mathematical Preliminaries}
-    \framesubtitle{Set Theoretic Concepts}
-    
+\framesubtitle{Fields}
+
 \begin{block}{Definition 1.1}
-    Let $X$ and $Y$ be two non-empty sets and $A$ and $B$ subsets of these sets respectively; If there exists a relation  $R: A \rightarrow B$ s.t.
-    for every $a \in A$ there exists only one $b \in B$ s.t. $R(a) = b$, then $R$ is a function from $X$ to $Y$.
+    Let $S$ be a non-empty set and $\phi : S \times S \rightarrow S$ a function.\\
+    This function is called a \underline{Binary Operator} and for the image of $(a,b) \in S$ under the function $\phi$ we write $\phi (a,b)$
+    or simply $a \cdot b$.
+\end{block}
+
+\onslide<2->
+\begin{block}{Definition 1.2}
+    Let $S$ be a non-empty set and $\phi$ a binary operator. The orbit of $x \in S$ is defined as follows:\\
+    $orb(x) = \{x^j; j \in \mathbb{N}\}$ 
 \end{block}
 
 \end{frame}
 
 \begin{frame}
-    \frametitle{<title>}
+    \frametitle{Fields}
 
-    \begin{block}{Definition 1.2}
-        Let $X$ and $Y$ be two non-empty sets and $f: X \rightarrow Y$ be a function; If 
-        \begin{itemize}
-            \item For every $y \in Y$ there exists $x \in X$ s.t. $f(x) = y$
-        \end{itemize}
+    \begin{alertblock}{Corollary 1.1}
+        Note that the set $S$ forms clouser under the operation $\phi$.\\
+        Meaning, for every $a,b \in S$ the product $a \cdot b \in S$
+    \end{alertblock}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Fields}
+
+    \begin{block}{Theorem 1.1}
+        If $S$ has finite number of elements, say m, $\phi$ must be \textbf{Surjective}.
     \end{block}
 
+    \onslide<2->
+    \begin{alertblock}{Proof}
+        (Proof by R.A.A) Let $\phi$ be non-surjective, then there exists $y \in S$ s.t. $\phi^{-1}(y) \notin S$.\\
+        From definition (1.2), $orb(y) = \{y, y^2, \dots, y^m \}$. From piegon hole principle, there exists $n \in \mathbb{N}$ s.t. $y^n = y$.
+        Hence, for every $y \in S$, the pre-image $\phi^{-1}(y) \neq \emptyset$ and thus, $\phi$ is surjective.$\blacksquare$
+    \end{alertblock}
+
+\end{frame}
+
+
+\begin{frame}
+    \frametitle{Fields}
+
+\begin{block}{Definition 1.3}
+    Let $S$ be a non-empty set and $\phi$ and $\psi$ two binary operations on $S$. The triplet $(S, \phi, \psi)$ is called a field if the following
+    conditions are satisfied:
+\end{block}
+
+    \onslide<2->
+\begin{block}{Conditions on $\phi$}
+    \begin{itemize}
+        \item <3-> $\phi$ is commutative.
+        \item <4-> $\phi$ is associative.
+        \item <5-> There exists a \underline{unique} element $o \in S$ s.t. $\phi(x,o) = x$ for all $x \in S$.
+        \item <6-> For every $x \in S$ there exists a \underline{unique} element $-x \in S$ s.t. $\phi(x,-x) = o$.
+    \end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Fields}
+\begin{block}{Conditions on $\psi$}
+    \begin{itemize}
+        \item $\psi$ is commutative.
+        \item <2->$\psi$ is associative.
+        \item <3->There exists a \underline{unique} non-zero element $e \in S$ s.t. $\psi(x,e) = x$ for all $x \in S$.
+        \item <4->For every non-zero element $x \in S$ there exists a \underline{unique} element $x^{-1} \in S$ s.t. $\psi(x,x^{-1}) = e$.
+        \item <5->$\psi$ distributes over $\phi$.
+    \end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Fields}
+Note: From now on, we take $\phi$ to be addition and $\psi$ to be multiplication; we also show them with the symbols $(+)$ and $(\cdot)$.\\
+Also, we show zero element $o$ as $0$ and identity element $e$ as $1$ if needed.
+\end{frame}
+
+\begin{frame}
+    \frametitle{Fields}
+
+    \begin{exampleblock}{example 1.1}
+        The set of complex numbers $\mathbb{C}$ forms a field under the addition and multiplication of complex numbers.
+    \end{exampleblock}
+
+    \onslide<2->
+    \begin{exampleblock}{example 1.2}
+        The set of rational numbers $\mathbb{Q}$ forms a field under the ordinary addition and multiplication.
+    \end{exampleblock}
+
+    \onslide<3->
+    \begin{exampleblock}{example 1.3}
+        The set $\mathbb{C}[\sqrt{2}]$ forms a field under the addition and multiplication of complex numbers. (Assignments)
+    \end{exampleblock}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Vector Spaces}
+    
+    \begin{block}{Definition 1.4}
+        Let $K$ be a field and $V$ be a non-empty set of objects (aka vectors). The tuple $(V,K)$ is called a linear space iff:
+
+        \onslide<2->
+        \begin{itemize}
+            \item V consists of an addition operator $(+)$ satisfying the first four conditions of Addition (Definition 1.3).
+            \item For every $k,k' \in K$ and $v,v_1,v_2 \in V$:
+            \begin{itemize}
+                \item $k(k'v) = kk'(v)$
+                \item $k(v_1 + v_2) = kv_1 + kv_2$
+            \end{itemize}
+        \end{itemize}
+    \end{block}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Vector Spaces}
+
+    \begin{exampleblock}{example 1.4}
+        Let $K$ be a field, and $V$ be the set of all n-tuples $(x_1,x_2, \dots, x_n)$ consisting of elements in $K$.\\
+        Define multiplication and addition as below:
+        \begin{itemize}
+            \item $(+)$: For every $(x_i)_{i=1}^{n}$ and $(x_j)_{j=1}^{n}$, $(x_i)+(x_j)= (x_i+x_j)$.
+            \item $(\cdot)$: For every $k \in K$, $k(x_i)_{i=1}^{n} = (kx_i)_{i=1}^{n}$
+        \end{itemize}
+        The tuple $(V,K)$ is a linear space.
+    \end{exampleblock}
 \end{frame}
 
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.11)  30 JAN 2023 17:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.11)  31 JAN 2023 21:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -852,16 +852,163 @@ Package pdftex.def Info: University Logo.png  used on input line 59.
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./University Logo.png>]
 File: University Logo.png Graphic file (type png)
 <use University Logo.png>
-Package pdftex.def Info: University Logo.png  used on input line 70.
+Package pdftex.def Info: University Logo.png  used on input line 77.
 (pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
  [2
 
 ]
 File: University Logo.png Graphic file (type png)
 <use University Logo.png>
-Package pdftex.def Info: University Logo.png  used on input line 82.
+Package pdftex.def Info: University Logo.png  used on input line 77.
 (pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
  [3
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 86.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [4
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 102.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [5
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 102.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [6
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 122.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [7
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 122.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [8
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 122.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [9
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 122.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [10
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 122.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [11
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 122.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [12
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 135.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [13
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 135.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [14
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 135.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [15
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 135.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [16
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 135.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [17
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 141.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [18
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 160.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [19
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 160.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [20
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 160.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [21
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 178.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [22
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 178.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [23
+
+]
+File: University Logo.png Graphic file (type png)
+<use University Logo.png>
+Package pdftex.def Info: University Logo.png  used on input line 192.
+(pdftex.def)             Requested size: 42.00435pt x 42.67912pt.
+ [24
 
 ]
 \tf@nav=\write6
@@ -878,18 +1025,18 @@ Package rerunfilecheck Info: File `Session_1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 27239 strings out of 478268
- 555094 string characters out of 5846346
- 794583 words of memory out of 5000000
- 44864 multiletter control sequences out of 15000+600000
- 478652 words of font info for 61 fonts, out of 8000000 for 9000
+ 27438 strings out of 478268
+ 560450 string characters out of 5846346
+ 817240 words of memory out of 5000000
+ 45018 multiletter control sequences out of 15000+600000
+ 483050 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,545b,746s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Session_1.pdf (3 pages, 90790 bytes).
+ 128i,15n,122p,545b,893s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Session_1.pdf (24 pages, 255156 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 125 compressed objects within 2 object streams
- 7 named destinations out of 1000 (max. 500000)
- 168 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1135 PDF objects out of 1200 (max. 8388607)
+ 851 compressed objects within 9 object streams
+ 49 named destinations out of 1000 (max. 500000)
+ 1320 words of extra memory for PDF output out of 10000 (max. 10000000)
 

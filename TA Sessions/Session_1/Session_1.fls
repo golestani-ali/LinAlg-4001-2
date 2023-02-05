@@ -1539,15 +1539,123 @@ INPUT ./University Logo.png
 INPUT ./University Logo.png
 INPUT University Logo.png
 INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi12.tfm
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT ./University Logo.png
+INPUT University Logo.png
+INPUT ./University Logo.png
 OUTPUT Session_1.nav
 OUTPUT Session_1.toc
 OUTPUT Session_1.snm
 INPUT Session_1.aux
 INPUT ./Session_1.out
 INPUT ./Session_1.out
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb
