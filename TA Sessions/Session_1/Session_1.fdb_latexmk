@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1675586636 "/Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/LinAlg-4001-2/TA Sessions/Session_1/Session_1.tex" "Session_1.pdf" "Session_1" 1675586638
-  "/Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/LinAlg-4001-2/TA Sessions/Session_1/Session_1.tex" 1675586634 5713 91ce431205a071496965fe4010448cac ""
+["pdflatex"] 1675586669 "/Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/LinAlg-4001-2/TA Sessions/Session_1/Session_1.tex" "Session_1.pdf" "Session_1" 1675586671
+  "/Users/aligolestani/University/Teaching/University/Linear Algebra [4001-2]/LinAlg-4001-2/TA Sessions/Session_1/Session_1.tex" 1675586669 5712 9f67d3cbc6c530b8367f5958f58fffc0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -241,10 +241,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1665473226 2826448 bac5ae97eee08aeb2861027659ac7b4e ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Session_1.aux" 1675586638 2175 01a85ca6de6e52305c4c75071d2dbfbb "pdflatex"
-  "Session_1.nav" 1675586638 1037 62cd74a9968a9d77fc122bf6ca3f34df "pdflatex"
+  "Session_1.aux" 1675586671 2175 01a85ca6de6e52305c4c75071d2dbfbb "pdflatex"
+  "Session_1.nav" 1675586671 1037 62cd74a9968a9d77fc122bf6ca3f34df "pdflatex"
   "Session_1.out" 0 -1 0 "pdflatex"
-  "Session_1.tex" 1675586634 5713 91ce431205a071496965fe4010448cac ""
+  "Session_1.tex" 1675586669 5712 9f67d3cbc6c530b8367f5958f58fffc0 ""
   "University Logo.png" 1675086061 16115 4d0a71561aa5eeaf1e759168eb9bbba9 ""
   (generated)
   "Session_1.aux"
